@@ -13,23 +13,21 @@ class Solution:
         original = []
         cur = head
         while cur is not None:
-            original.append(cur.val)
+            original.append(cur)
             cur = cur.next
         dummy = ListNode()
         cur = dummy
-        for num in reversed(original):
-            cur.next = ListNode(num)
+        for node in reversed(original):
+            cur.next = node
             cur = cur.next
+        cur.next = None
         return dummy.next
 
 
     def reverseList_1(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if head and head.next:
-            dummy = ListNode(next=head)
-            back, middle, front = dummy, head, head.next
-            while front:
-                back, middle, front = middle, front, front.next
-                middle.next = back
-            head.next = None
-            return middle
-        return head
+        prev, cur = None, head
+        while cur:
+            cur_next = cur.next
+            cur.next = prev
+            prev, cur = cur, cur_next
+        return prev
