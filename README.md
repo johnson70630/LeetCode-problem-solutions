@@ -10,3 +10,4 @@ This project shows every LeetCode problems that I solved personally
 ## [125. Valid Palindrome](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/125.%20Valid%20Palindrome/LC125.py)
 ## [138. Copy List with Random Pointer](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/138.%20Copy%20List%20with%20Random%20Pointer/LC138.py)
 ## [141. Linked List Cycle](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/141.%20Linked%20List%20Cycle/LC141.py)
+## [206. Reverse Linked List](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/206.%20Reverse%20Linked%20List/LC206.py)
