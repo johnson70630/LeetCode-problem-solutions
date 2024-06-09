@@ -7,6 +7,7 @@ This project shows every LeetCode problems that I solved personally.
 ## [20. Valid Parentheses](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/20.%20Valid%20Parentheses/LC20.py)
 ## [21. Merge Two Sorted Lists](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/21.%20Merge%20Two%20Sorted%20Lists/LC21.py)
 ## [49. Group Anagrams](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/49.%20Group%20Anagrams/LC49.py)
+## [92. Reverse Linked List II](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/92.%20Reverse%20Linked%20List%20II/LC92.py)
 ## [121. Best Time to Buy and Sell Stock](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/LC121.py)
 ## [125. Valid Palindrome](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/125.%20Valid%20Palindrome/LC125.py)
 ## [138. Copy List with Random Pointer](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/138.%20Copy%20List%20with%20Random%20Pointer/LC138.py)
