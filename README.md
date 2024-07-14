@@ -2,7 +2,7 @@
 This project shows every LeetCode problems that I solved personally. 
 **The solution descriptions for each problem are located in each problem's folder `solution.md`.**
 
-## [15. 3Sum](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/15.%203Sum/LC15.py)
+## [15. 3Sum](15.%203Sum/)
 ## [19. Remove Nth Node From End of List](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/LC19.py)
 ## [20. Valid Parentheses](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/20.%20Valid%20Parentheses/LC20.py)
 ## [21. Merge Two Sorted Lists](https://github.com/johnson70630/LeetCode-problem-solutions/blob/main/21.%20Merge%20Two%20Sorted%20Lists/LC21.py)
