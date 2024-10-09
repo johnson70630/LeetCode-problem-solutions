@@ -1,6 +1,6 @@
 # LeetCode-problem-solutions
 This project shows every LeetCode problems that I solved personally. 
-**The solution descriptions for each problem are located in each problem's folder `solution.md`.**
+**The solution descriptions for each problem are located in each problem's folder `README.md`.**
 
 ## [15. 3Sum](15.%203Sum/)
 ## [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List/)
